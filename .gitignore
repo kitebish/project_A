@@ -1,0 +1,4 @@
+# Cursor AI Configuration (DO NOT COMMIT)
+.cursor/
+*.mdc
+.cursorrules
